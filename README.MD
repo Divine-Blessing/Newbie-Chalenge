@@ -10,8 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 
 ### The challenge
 
@@ -22,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![This is my screenshot](./images/MYScreenshot%202022-08-22%20212657.png)
+![screenshot](./images/MYScreenshot%202022-08-22%20212657.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Divine-Blessing/Newbie-Chalenge.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository link](https://github.com/Divine-Blessing/Newbie-Chalenge.git)
+- Live Site URL: [Hosted Site](https://divine-blessing.github.io/Newbie-Chalenge/)
 
 ### Built with
 
@@ -43,7 +41,7 @@ I improved my knowledge on css flex
 ## Author
 
 - Frontend Mentor - [@odeozome](https://www.frontendmentor.io/profile/Divine-Blessing)
-- Twitter - [@yourusername](https://twitter.com/odeozome?s=11)
+- Twitter - [@Odeozome](https://twitter.com/odeozome?s=11)
 
 
 ## Acknowledgments
